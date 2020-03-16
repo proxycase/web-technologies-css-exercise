@@ -1,0 +1,6 @@
+* {
+  font-family: 'nunito', sans-serif;
+  font-size: 16px; /* Sets value for font-size: 100% or 1em */
+}
+
+/* define a utility that defines 30% width */
